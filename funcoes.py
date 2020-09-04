@@ -4,6 +4,7 @@
 ''' Challenge Python Onbound
     Jogo: Banco Imobiliário
     Author: Marcos Lopes Martins
+    Github: gatosimba
     Data: 15-Maio-2020'''
 
 import random
