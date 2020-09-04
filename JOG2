@@ -1,0 +1,87 @@
+SIMULAÇÃO COM 2 JOGADORES
+
+============= RESTART: /home/marcos/workspace/py-jobim/jobim.py =============
+Deseja iniciar o jogo? (s/n): s
+Ok, Vamos começar configurando o Jogo...
+
+
+1. Vamos configurar a Quantidade de Simulações do Jogo!
+
+Informe o número de Simulações do Jogo (Sugestão: Mínimo=300 Máximo: 600): 
+Ops! Quantidade de Simulações não informada. Vamos assumir 300.
+
+
+2. Vamos configurar o Timeout do Jogo!
+
+Informe o número de Rodadas para Timeout (Sugestão: Mínimo=1.000 Máximo: 2.000): 
+Ops! Rodadas para Timeout não informada. Vamos assumir 1.000.
+
+
+3. Agora vamos configurar o Tabuleiro!
+
+Informe o número de Propriedades (Minímo=20 e Máximo=40): 
+Ops! Propriedades não informadas. Vamos assumir 20.
+
+Informe o número de Dados (Minímo=1 e Máximo=2): 
+Ops! Quantidade de Dados não informada. Vamos assumir 1.
+
+
+4. Agora vamos configurar a grana R$ do Jogo!
+
+Informe o Valor do Saldo Inicial (Minímo 300,00): 
+Ops! Valor do Saldo não informado. Vamos assumir 300,00.
+
+Informe o Valor do Premio ao completar uma volta (Minímo 100,00): 
+Ops! Valor do Premio não informado. Vamos assumir 100,00.
+
+
+5. Vamos configurar o número de Jogadores participantes!
+
+Informe o número de Jogadores (Minímo=2 e Máximo=4): 
+Ops! Jogadores não informados. Vamos assumir 2.
+
+
+6. Finalmente, vamos configurar o Nome e Perfil dos Jogadores!
+
+Informe o Nome do(a) Jogador(a) 1: marcos
+Informe o Perfil do(a) Jogador(a) marcos ['I', 'E', 'C', 'A']: i
+Informe o Nome do(a) Jogador(a) 2: sandra
+Informe o Perfil do(a) Jogador(a) sandra ['E', 'C', 'A']: c
+
+Ok, Configuração completa. Aguarde!!! Agora o computador vai jogar...
+
+
+---------------------------------------------------
+Ufa!!! Fim do jogo. Vamos ao Resumo das partidas...
+---------------------------------------------------
+
+Performance dos jogadores:
+
+Jogador.................: SANDRA
+Vitórias................: 250 
+Porcentagem de Vitórias.: 83.33 
+Comportamento (Perfil)..: Cauteloso 
+
+Jogador.................: MARCOS
+Vitórias................: 50 
+Porcentagem de Vitórias.: 16.67 
+Comportamento (Perfil)..: Impulsivo 
+
+
+----------------------
+So, the Oscar goes to: SANDRA
+----------------------
+
+Parabéns SANDRA!!! Venceu por critério de desempenho.
+
+Número de partidas encerradas por timeout..: 0
+
+Número total de turnos.....................: 1127
+
+Quantos turnos em média demora uma partida.: 3
+
+Duração Total da Simulação: 0:00:00.165189 
+
+==========================================
+
+
