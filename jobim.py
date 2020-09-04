@@ -3,7 +3,7 @@
 
 ''' Challenge Python Onbound
     Jogo: Banco Imobiliário
-    Author: Marcos Lopes Martins
+    Author: Gato Simba
     Data: 15-Maio-2020'''
 
 #-> Import de bibliotecas necessárias para o Jogo
